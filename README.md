@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding, basketball, hiking. 
 - 🌱 I’m currently learning Next.js and GraphQL 
 - 💻 I’m looking to collaborate on open-source web development projects and innovative startups.
-- 📫 How to reach me (h.nassserr0@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## 🎓 Tool Box:
@@ -24,7 +23,7 @@
  </td><td valign="top" width="50%">
 
  ### Backend 
-   <div>
+   <div align="center">
       <picture><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></picture>
       <picture><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></picture> 
       <picture><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></picture>
@@ -37,6 +36,7 @@
       <picture><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></picture> 
    </div>
 
+</td></tr></table>  
 
 
 
