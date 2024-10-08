@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Hadi Nasser
 - 👀 I’m interested in coding, basketball, hiking. 
 - 🌱 I’m currently learning Next.js and GraphQL 
-- 💞️ I’m looking to collaborate on open-source web development projects and innovative startups.
+- 💻 I’m looking to collaborate on open-source web development projects and innovative startups.
 - 📫 How to reach me (h.nassserr0@gmail.com)
 - 😄 Pronouns: He/Him
 
