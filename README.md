@@ -8,7 +8,7 @@
 ## 🎓 Tool Box:
   ![JavaScript](https://img.shields.io/badge/JavaScript-FFF100?style=for-the-badge&logo=javascript&logoColor=black&style=flat)
   ![TypeScript](https://img.shields.io/badge/TypeScript-006BFF?style=for-the-badge&logo=typescript&logoColor=black&style=flat)
-  ![Node.js](https://img.shields.io/badge/Node.js-0000?style=for-the-badge&logo=node.js&logoColor=black&style=flat)
+  ![Node.js](https://img.shields.io/badge/Node.js-00000?style=for-the-badge&logo=node.js&logoColor=black&style=flat)
 
 
 <!---
