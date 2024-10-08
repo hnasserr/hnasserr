@@ -5,8 +5,7 @@
 - 📫 How to reach me (h.nassserr0@gmail.com)
 - 😄 Pronouns: He/Him
 
-# 🎓 Tool Box:
-<br/>
+## 🎓 Tool Box:
   <img src="https://img.shields.io/badge/JavaScript-FFF100?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius:50px;" />
 
 
