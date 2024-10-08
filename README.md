@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 
 ## 🎓 Tool Box:
-  <img src="https://img.shields.io/badge/JavaScript-FFF100?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius:50px;" />
+  ![SQL](https://img.shields.io/badge/JavaScript-FFF100?style=for-the-badge&logo=javascript&logoColor=black&style=flat)
 
 
 <!---
