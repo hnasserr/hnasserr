@@ -1,4 +1,7 @@
-- 👋 Hey, I’m Hadi Nasser
+## 👋 Hey there, I’m Hadi!
+I'm a dedicated, curious, and socially driven **Fullstack Web Developer**, on a never-ending
+journey to grow and learn in the world of campaigning, communications and web development!
+
 - 👀 I’m interested in coding, basketball, hiking. 
 - 🌱 I’m currently learning Next.js and GraphQL 
 - 💻 I’m looking to collaborate on open-source web development projects and innovative startups.
